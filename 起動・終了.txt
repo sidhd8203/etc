@@ -1,0 +1,13 @@
+
+--ãNìÆ
+
+start Path -b 481101 -p 014
+
+
+--èIóπ
+
+@echo off
+
+C:\WINDOWS\system32\taskkill.exe /f /im program.exe
+
+exit
